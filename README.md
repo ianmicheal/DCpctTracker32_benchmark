@@ -1,4 +1,5 @@
 # DCpctTracker32_benchmark
+Code and info found at https://dcemulation.org/phpBB/viewtopic.php?p=1060092#p1060092
  SH4's performance counter into a kind of library/framework,
 
 Info from TapamN this is his code and framework and benchmark i uploaded here for safe keeping
